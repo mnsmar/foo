@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Transcription on Computational Genomics Unit</title>
+    <link>http://localhost:1313/tags/transcription/</link>
+    <description>Recent content in Transcription on Computational Genomics Unit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/transcription/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gene body DNA hydroxymethylation restricts the magnitude of transcriptional changes during aging</title>
+      <link>http://localhost:1313/publications/2024-dna-hydroxymethylation-aging/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-dna-hydroxymethylation-aging/</guid>
+      <description>Gene body 5-hydroxymethylcytosine (5hmC) acts as a brake on transcriptional dysregulation during aging, restraining the magnitude of age-associated gene expression changes.</description>
+    </item>
+    <item>
+      <title>Epigenomic Regulation of Gene Expression in Aging</title>
+      <link>http://localhost:1313/projects/epigenomics-aging/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/epigenomics-aging/</guid>
+      <description>We investigate how epigenetic marks, including DNA methylation and hydroxymethylation, regulate transcriptional homeostasis during aging.</description>
+    </item>
+  </channel>
+</rss>

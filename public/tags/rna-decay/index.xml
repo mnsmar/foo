@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RNA Decay on Computational Genomics Unit</title>
+    <link>http://localhost:1313/tags/rna-decay/</link>
+    <description>Recent content in RNA Decay on Computational Genomics Unit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rna-decay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full-length direct RNA sequencing uncovers stress-granule dependent RNA decay upon cellular stress</title>
+      <link>http://localhost:1313/publications/2024-stress-granule-rna-decay/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-stress-granule-rna-decay/</guid>
+      <description>Full-length direct RNA sequencing reveals that stress granules are hubs for selective mRNA decay during cellular stress, linking stress granule biology to RNA homeostasis.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Computational Genomics Unit</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Research on Computational Genomics Unit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epigenomic Regulation of Gene Expression in Aging</title>
+      <link>http://localhost:1313/projects/epigenomics-aging/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/epigenomics-aging/</guid>
+      <description>We investigate how epigenetic marks, including DNA methylation and hydroxymethylation, regulate transcriptional homeostasis during aging.</description>
+    </item>
+    <item>
+      <title>Long-Read Direct RNA Sequencing Technologies</title>
+      <link>http://localhost:1313/projects/long-read-sequencing-technologies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/long-read-sequencing-technologies/</guid>
+      <description>We develop experimental and computational technologies based on nanopore direct RNA sequencing to capture the native state of RNA in cells at single-molecule resolution.</description>
+    </item>
+    <item>
+      <title>RNA Metabolism in Aging</title>
+      <link>http://localhost:1313/projects/rna-metabolism-aging/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rna-metabolism-aging/</guid>
+      <description>We study how RNA homeostasis is disrupted during aging, with a focus on the brain, and develop interventions to restore RNA stability and function.</description>
+    </item>
+  </channel>
+</rss>

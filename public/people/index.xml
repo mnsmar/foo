@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>People on Computational Genomics Unit</title>
+    <link>http://localhost:1313/people/</link>
+    <description>Recent content in People on Computational Genomics Unit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emmanouil &#34;Manolis&#34; Maragkakis, Ph.D.</title>
+      <link>http://localhost:1313/people/pi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/pi/</guid>
+      <description>Stadtman Tenure-Track Investigator and Chief of the Computational Genomics Unit, Laboratory of Genetics and Genomics, NIA/NIH.</description>
+    </item>
+    <item>
+      <title>Matthew J. Payea</title>
+      <link>http://localhost:1313/people/matthew-payea/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/matthew-payea/</guid>
+      <description>Postdoctoral Fellow studying cellular stress responses and senescence.</description>
+    </item>
+    <item>
+      <title>Shoeb A. Dar</title>
+      <link>http://localhost:1313/people/shoeb-dar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/shoeb-dar/</guid>
+      <description>Postdoctoral Fellow studying RNA decay and stress granule biology using direct RNA sequencing.</description>
+    </item>
+    <item>
+      <title>Cedric Belair</title>
+      <link>http://localhost:1313/people/cedric-belair/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/cedric-belair/</guid>
+      <description>Research Fellow working on RNA metabolism and transcriptome dynamics.</description>
+    </item>
+    <item>
+      <title>Sulochan Malla</title>
+      <link>http://localhost:1313/people/sulochan-malla/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/sulochan-malla/</guid>
+      <description>Research Fellow working on long-read sequencing and RNA biology.</description>
+    </item>
+    <item>
+      <title>Vlastimil Martinek</title>
+      <link>http://localhost:1313/people/vlastimil-martinek/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/vlastimil-martinek/</guid>
+      <description>Research Fellow focused on machine learning approaches for RNA sequencing analysis.</description>
+    </item>
+  </channel>
+</rss>

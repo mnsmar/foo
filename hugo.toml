@@ -1,0 +1,97 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Computational Genomics Unit'
+theme = 'PaperMod'
+paginate = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = 'production'
+  title = 'Computational Genomics Unit'
+  description = 'We study the high-dimensional regulation of gene expression to uncover the mechanistic basis of aging physiology and disease.'
+  author = 'Computational Genomics Unit, NIA/NIH'
+
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = false
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+
+  homeInfoParams.Title = 'Computational Genomics Unit'
+  homeInfoParams.Content = '''
+We are part of the **[Laboratory of Genetics and Genomics](https://www.nia.nih.gov/research/labs/lgg)**
+at the **National Institute on Aging (NIA), NIH**, led by
+[Emmanouil "Manolis" Maragkakis, Ph.D.](/people/pi).
+
+We investigate the high-dimensional regulation of gene expression to uncover
+the mechanistic basis of **aging physiology and disease**.
+Our work integrates experimental and computational approaches to study dynamic
+changes in **RNA metabolism** and develop interventions to counteract
+aging-associated decline, cellular senescence, and chronic age-associated
+pathologies such as neurodegeneration.
+
+We develop experimental and computational technologies based on
+**long-read sequencing** with single-cell and spatial resolution to capture the
+native state of RNA in cells, and build **machine learning tools** to model
+fundamental biological mechanisms and design combinatorial interventions to
+increase human healthspan.
+'''
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/maragkakislab'
+
+  [[params.socialIcons]]
+    name = 'googlescholar'
+    url = 'https://scholar.google.com/citations?user=vZPpdNMAAAAJ&hl=en'
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:maragkakise2@nih.gov'
+
+[menu]
+  [[menu.main]]
+    identifier = 'research'
+    name = 'Research'
+    url = '/projects/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'publications'
+    name = 'Publications'
+    url = '/publications/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = 'people'
+    name = 'People'
+    url = '/people/'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'news'
+    name = 'News'
+    url = '/news/'
+    weight = 40
+
+  [[menu.main]]
+    identifier = 'join'
+    name = 'Join Us'
+    url = '/join/'
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
