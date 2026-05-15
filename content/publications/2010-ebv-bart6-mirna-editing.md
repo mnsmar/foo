@@ -2,7 +2,7 @@
 title: "Editing of Epstein-Barr virus-encoded BART6 microRNAs controls their dicer targeting and consequently affects viral latency"
 date: 2010-10-22
 authors: ["Iizasa H", "Wulff B-E", "Alla NR", "Maragkakis M", "Megraw M", "Hatzigeorgiou A", "Iwakiri D", "Takada K", "Wiedmer A", "Showe L", "Lieberman P", "Nishikura K"]
-venue: "Journal of Biological Chemistry, 285(43):33358-33370"
+venue: "Journal of Biological Chemistry"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC2963350[pmcid]"
 tags: ["microRNA", "RNA editing", "Epstein-Barr virus", "viral latency", "Dicer"]
 ---

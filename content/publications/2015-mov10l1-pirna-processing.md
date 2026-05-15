@@ -2,7 +2,7 @@
 title: "The RNA helicase MOV10L1 binds piRNA precursors to initiate piRNA processing"
 date: 2015-03-15
 authors: ["Vourekas A", "Zheng K", "Fu Q", "Maragkakis M", "Alexiou P", "Ma J", "Pillai RS", "Mourelatos Z", "Wang PJ"]
-venue: "Genes & Development, 29(6):617-629"
+venue: "Genes & Development"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC4378194[pmcid]"
 tags: ["piRNA", "RNA helicase", "MOV10L1", "piRNA biogenesis", "germ cells"]
 ---

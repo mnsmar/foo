@@ -2,7 +2,7 @@
 title: "FUS regulates genes coding for RNA-binding proteins in neurons by binding to their highly conserved introns"
 date: 2013-04-01
 authors: ["Nakaya T", "Alexiou P", "Maragkakis M", "Chang A", "Mourelatos Z"]
-venue: "RNA, 19(4):498-509"
+venue: "RNA"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC3677260[pmcid]"
 tags: ["RNA-binding proteins", "FUS", "ALS", "neurons", "introns", "CLIP-seq"]
 ---

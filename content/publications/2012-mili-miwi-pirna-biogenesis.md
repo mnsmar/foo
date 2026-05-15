@@ -2,7 +2,7 @@
 title: "Mili and Miwi target RNA repertoire reveals piRNA biogenesis and function of Miwi in spermiogenesis"
 date: 2012-08-01
 authors: ["Vourekas A", "Zheng Q", "Alexiou P", "Maragkakis M", "Kirino Y", "Gregory BD", "Mourelatos Z"]
-venue: "Nature Structural & Molecular Biology, 19(8):773-781"
+venue: "Nature Structural & Molecular Biology"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC3414646[pmcid]"
 tags: ["piRNA", "PIWI proteins", "spermiogenesis", "germ cells", "small RNA"]
 ---

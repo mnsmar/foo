@@ -2,7 +2,7 @@
 title: "Topoisomerase 3b facilitates piRNA biogenesis to promote transposon silencing and germ cell development"
 date: 2025-04-03
 authors: ["Lee SK", "Shen W", "Wen W", "Joo Y", "Xue Y", "Park A", "Qiang A", "Su S", "Zhang T", "Zhang M", "Fan J", "Zhang Y", "De S", "Gainetdinov I", "Sharov A", "Maragkakis M", "Wang W"]
-venue: "Cell Reports, 44(4):115495"
+venue: "Cell Reports"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC12070812[pmcid]"
 tags: ["piRNA", "Topoisomerase", "transposon silencing", "germ cells", "piRNA biogenesis"]
 ---

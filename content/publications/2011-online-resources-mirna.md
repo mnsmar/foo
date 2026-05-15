@@ -2,7 +2,7 @@
 title: "Online resources for microRNA analysis"
 date: 2011-01-17
 authors: ["Alexiou P", "Maragkakis M", "Hatzigeorgiou AG"]
-venue: "Journal of Nucleic Acids Investigation, 2(1):2-5"
+venue: "Journal of Nucleic Acids Investigation"
 link: "https://doi.org/10.4081/jnai.2011.e4"
 tags: ["microRNA", "bioinformatics", "databases", "web resources"]
 ---

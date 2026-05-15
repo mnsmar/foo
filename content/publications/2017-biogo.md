@@ -2,7 +2,7 @@
 title: "bíogo: a simple high-performance bioinformatics toolkit for the Go language"
 date: 2017-02-18
 authors: ["Daniel Kortschak R", "Bleecher Snyder J", "Maragkakis M", "Adelson DL"]
-venue: "Journal of Open Source Software, 2(10):167"
+venue: "Journal of Open Source Software"
 link: "https://doi.org/10.21105/joss.00167"
 tags: ["bioinformatics", "software", "Go language", "genomics"]
 ---

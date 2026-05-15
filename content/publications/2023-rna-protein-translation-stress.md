@@ -2,7 +2,7 @@
 title: "RNA-mediated control of protein translation under stress"
 date: 2023-07-20
 authors: ["Payea MJ", "Dar SA", "Malla S", "Maragkakis M"]
-venue: "Antioxidants & Redox Signaling, 39(1-3):74-91"
+venue: "Antioxidants & Redox Signaling"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC10443204[pmcid]"
 tags: ["RNA metabolism", "translation", "cellular stress", "RNA-binding proteins", "integrated stress response"]
 ---

@@ -2,7 +2,7 @@
 title: "Accurate microRNA Target Prediction Using Detailed Binding Site Accessibility and Machine Learning on Proteomics Data"
 date: 2011-01-01
 authors: ["Reczko M", "Maragkakis M", "Alexiou P", "Papadopoulos GL", "Hatzigeorgiou AG"]
-venue: "Frontiers in Genetics, 2:103"
+venue: "Frontiers in Genetics"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC3265086[pmcid]"
 tags: ["microRNA", "target prediction", "machine learning", "RNA structure", "proteomics"]
 ---

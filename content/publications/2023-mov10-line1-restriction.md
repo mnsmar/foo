@@ -2,7 +2,7 @@
 title: "The MOV10 RNA helicase is a dosage-dependent host restriction factor for LINE1 retrotransposition in mice"
 date: 2023-05-01
 authors: ["Guan Y", "Gao H", "Leu NA", "Vourekas A", "Alexiou P", "Maragkakis M", "Kang Z", "Mourelatos Z", "Liang G", "Wang PJ"]
-venue: "PLoS Genetics, 19(5):e1010566"
+venue: "PLoS Genetics"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC10174503[pmcid]"
 tags: ["retrotransposons", "LINE1", "MOV10", "RNA helicase", "genome integrity"]
 ---

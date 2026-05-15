@@ -2,7 +2,7 @@
 title: "Full-length direct RNA sequencing uncovers stress granule-dependent RNA decay upon cellular stress"
 date: 2024-12-19
 authors: ["Dar SA", "Malla S", "Martinek V", "Payea MJ", "Lee CT-Y", "Martin J", "Khandeshi AJ", "Martindale JL", "Belair C", "Maragkakis M"]
-venue: "eLife, 13:e96284"
+venue: "eLife"
 link: "https://pubmed.ncbi.nlm.nih.gov/39699162/"
 tags: ["stress granules", "RNA decay", "direct RNA sequencing", "nanopore", "cellular stress", "RNA metabolism"]
 ---

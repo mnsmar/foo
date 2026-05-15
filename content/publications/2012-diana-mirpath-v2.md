@@ -2,7 +2,7 @@
 title: "DIANA miRPath v.2.0: investigating the combinatorial effect of microRNAs in pathways"
 date: 2012-07-01
 authors: ["Vlachos IS", "Kostoulas N", "Vergoulis T", "Georgakilas G", "Reczko M", "Maragkakis M", "Paraskevopoulou MD", "Prionidis K", "Dalamagas T", "Hatzigeorgiou AG"]
-venue: "Nucleic Acids Research, 40(Web Server):W498-504"
+venue: "Nucleic Acids Research"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC3394305[pmcid]"
 tags: ["microRNA", "pathways", "bioinformatics", "web server", "combinatorial regulation"]
 ---

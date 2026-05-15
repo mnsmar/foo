@@ -2,7 +2,7 @@
 title: "Biology of Stress Responses in Aging"
 date: 2023-06-27
 authors: ["Maragkakis M", "Malla S", "Hatzoglou M", "Trifunovic A", "Glick AB", "Finkel T", "Longo VD", "Kaushik S", "Muñoz-Cánoves P", "Lithgow GJ", "Naidoo N", "Booth LN", "Payea MJ", "Herman AB", "de Cabo R", "Wilson DM 3rd", "Ferrucci L", "Gorospe M"]
-venue: "Aging Biology, 1"
+venue: "Aging Biology"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC10947073[pmcid]"
 tags: ["aging", "stress response", "cellular stress", "review", "senescence"]
 ---

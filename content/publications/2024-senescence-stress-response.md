@@ -2,7 +2,7 @@
 title: "Senescence suppresses the integrated stress response and activates a stress-remodeled secretory phenotype"
 date: 2024-11-21
 authors: ["Payea MJ", "Dar SA", "Anerillas C", "Martindale JL", "Belair C", "Munk R", "Malla S", "Fan J", "Piao Y", "Yang X", "Rehman A", "Banskota N", "Abdelmohsen K", "Gorospe M", "Maragkakis M"]
-venue: "Molecular Cell, 84(22):4454-4469"
+venue: "Molecular Cell"
 link: "https://pubmed.ncbi.nlm.nih.gov/39481386/"
 tags: ["senescence", "integrated stress response", "secretory phenotype", "aging", "cellular stress"]
 ---

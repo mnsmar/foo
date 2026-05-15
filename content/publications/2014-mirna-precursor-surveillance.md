@@ -2,7 +2,7 @@
 title: "A MicroRNA precursor surveillance system in quality control of MicroRNA synthesis"
 date: 2014-09-18
 authors: ["Liu X", "Zheng Q", "Vrettos N", "Maragkakis M", "Alexiou P", "Gregory BD", "Mourelatos Z"]
-venue: "Molecular Cell, 55(6):868-879"
+venue: "Molecular Cell"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC4169771[pmcid]"
 tags: ["microRNA", "miRNA biogenesis", "quality control", "RNA processing"]
 ---

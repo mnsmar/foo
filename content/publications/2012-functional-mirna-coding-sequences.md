@@ -2,7 +2,7 @@
 title: "Functional microRNA targets in protein coding sequences"
 date: 2012-03-15
 authors: ["Reczko M", "Maragkakis M", "Alexiou P", "Grosse I", "Hatzigeorgiou AG"]
-venue: "Bioinformatics, 28(6):771-776"
+venue: "Bioinformatics"
 link: "https://pubmed.ncbi.nlm.nih.gov/22285563/"
 tags: ["microRNA", "target prediction", "coding sequences", "bioinformatics"]
 ---

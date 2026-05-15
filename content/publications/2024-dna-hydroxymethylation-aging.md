@@ -2,7 +2,7 @@
 title: "Gene body DNA hydroxymethylation restricts the magnitude of transcriptional changes during aging"
 date: 2024-07-28
 authors: ["Occean JR", "Yang N", "Sun Y", "Dawkins MS", "Munk R", "Belair C", "Dar S", "Anerillas C", "Wang L", "Shi C", "Dunn C", "Bernier M", "Price NL", "Kim JS", "Cui C-Y", "Fan J", "Bhattacharyya M", "De S", "Maragkakis M", "de Cabo R", "Sidoli S", "Sen P"]
-venue: "Nature Communications, 15(1):6357"
+venue: "Nature Communications"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC11284234[pmcid]"
 tags: ["DNA hydroxymethylation", "aging", "epigenomics", "transcription", "gene regulation"]
 ---

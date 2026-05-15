@@ -2,7 +2,7 @@
 title: "Kc167, a widely used Drosophila cell line, contains an active primary piRNA pathway"
 date: 2017-01-01
 authors: ["Vrettos N", "Maragkakis M", "Alexiou P", "Mourelatos Z"]
-venue: "RNA, 23(1):108-118"
+venue: "RNA"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC5159643[pmcid]"
 tags: ["piRNA", "Drosophila", "cell line", "small RNA", "piRNA biogenesis"]
 ---

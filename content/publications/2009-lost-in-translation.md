@@ -2,7 +2,7 @@
 title: "Lost in translation: an assessment and perspective for computational microRNA target identification"
 date: 2009-12-01
 authors: ["Alexiou P", "Maragkakis M", "Papadopoulos GL", "Reczko M", "Hatzigeorgiou AG"]
-venue: "Bioinformatics, 25(23):3049-3055"
+venue: "Bioinformatics"
 link: "https://pubmed.ncbi.nlm.nih.gov/19789267/"
 tags: ["microRNA", "target prediction", "bioinformatics", "benchmarking"]
 ---

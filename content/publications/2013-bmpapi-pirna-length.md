@@ -2,7 +2,7 @@
 title: "Mitochondrial protein BmPAPI modulates the length of mature piRNAs"
 date: 2013-10-01
 authors: ["Honda S", "Kirino Y", "Maragkakis M", "Alexiou P", "Ohtaki A", "Murali R", "Mourelatos Z", "Kirino Y"]
-venue: "RNA, 19(10):1405-1418"
+venue: "RNA"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC3854531[pmcid]"
 tags: ["piRNA", "mitochondria", "small RNA", "germ cells", "piRNA biogenesis"]
 ---

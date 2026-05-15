@@ -2,7 +2,7 @@
 title: "Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to the germ plasm"
 date: 2016-03-17
 authors: ["Vourekas A", "Alexiou P", "Vrettos N", "Maragkakis M", "Mourelatos Z"]
-venue: "Nature, 531(7594):390-394"
+venue: "Nature"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC4795963[pmcid]"
 tags: ["piRNA", "germ plasm", "mRNA localization", "small RNA", "germ cells"]
 ---

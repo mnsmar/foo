@@ -2,7 +2,7 @@
 title: "SamQL: A Structured Query Language and filtering tool for the SAM/BAM file format"
 date: 2021-10-02
 authors: ["Lee CT-Y", "Maragkakis M"]
-venue: "BMC Bioinformatics, 22(1):474"
+venue: "BMC Bioinformatics"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC8487582[pmcid]"
 tags: ["bioinformatics", "software", "SAM/BAM", "sequencing", "data analysis"]
 ---

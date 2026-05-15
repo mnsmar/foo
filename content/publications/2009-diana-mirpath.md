@@ -2,7 +2,7 @@
 title: "DIANA-mirPath: Integrating human and mouse microRNAs in pathways"
 date: 2009-08-01
 authors: ["Papadopoulos GL", "Alexiou P", "Maragkakis M", "Reczko M", "Hatzigeorgiou AG"]
-venue: "Bioinformatics, 25(15):1991-1993"
+venue: "Bioinformatics"
 link: "https://pubmed.ncbi.nlm.nih.gov/19435746/"
 tags: ["microRNA", "pathways", "bioinformatics", "web server"]
 ---

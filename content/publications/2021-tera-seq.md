@@ -2,7 +2,7 @@
 title: "TERA-Seq: True end-to-end sequencing of native RNA molecules for transcriptome characterization"
 date: 2021-08-24
 authors: ["Ibrahim F", "Oppelt J", "Maragkakis M", "Mourelatos Z"]
-venue: "Nucleic Acids Research, 49(16):e115"
+venue: "Nucleic Acids Research"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC8599856[pmcid]"
 tags: ["nanopore", "direct RNA sequencing", "RNA ends", "transcriptomics", "long-read sequencing"]
 ---

@@ -2,7 +2,7 @@
 title: "Deep learning and direct sequencing of labeled RNA captures transcriptome dynamics"
 date: 2024-09-29
 authors: ["Martinek V", "Martin J", "Belair C", "Payea MJ", "Malla S", "Alexiou P", "Maragkakis M"]
-venue: "NAR Genomics and Bioinformatics, 6(3):lqae116"
+venue: "NAR Genomics and Bioinformatics"
 link: "https://pubmed.ncbi.nlm.nih.gov/39211330/"
 tags: ["deep learning", "nanopore", "direct RNA sequencing", "RNA metabolism", "transcriptome dynamics"]
 ---

@@ -2,7 +2,7 @@
 title: "DIANA-microT web server: elucidating microRNA functions through target prediction"
 date: 2009-07-01
 authors: ["Maragkakis M", "Reczko M", "Simossis VA", "Alexiou P", "Papadopoulos GL", "Dalamagas T", "Giannopoulos G", "Goumas G", "Koukis E", "Kourtis K", "Vergoulis T", "Koziris N", "Sellis T", "Tsanakas P", "Hatzigeorgiou AG"]
-venue: "Nucleic Acids Research, 37(Web Server):W273-6"
+venue: "Nucleic Acids Research"
 link: "https://pubmed.ncbi.nlm.nih.gov/?term=PMC2703977[pmcid]"
 tags: ["microRNA", "target prediction", "bioinformatics", "web server"]
 ---
