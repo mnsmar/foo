@@ -73,12 +73,6 @@ increase human healthspan.
     weight = 30
 
   [[menu.main]]
-    identifier = 'news'
-    name = 'News'
-    url = '/news/'
-    weight = 40
-
-  [[menu.main]]
     identifier = 'join'
     name = 'Join Us'
     url = '/join/'
