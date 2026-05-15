@@ -1,9 +1,9 @@
 ---
-title: "Cedric Belair"
+title: "Cedric Belair, PhD"
 role: "RNA biology scientist"
 email: ""
 summary: "Working on RNA metabolism and transcriptome dynamics using long-read RNA sequencing."
-weight: 12
+weight: 31
 ---
 
 ## Research

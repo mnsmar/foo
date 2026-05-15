@@ -1,11 +1,14 @@
 ---
-title: "Srila Palanikumar"
+title: "Ani Nangunoori"
 role: "Postbaccalaureate trainee"
 email: ""
 website: ""
 google_scholar: ""
+twitter: ""
+bluesky: ""
+image: ""
 summary: ""
-weight: 20
+weight: 21
 alumni: false
 ---
 

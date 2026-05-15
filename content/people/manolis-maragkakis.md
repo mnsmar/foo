@@ -1,20 +1,19 @@
 ---
-title: 'Emmanouil "Manolis" Maragkakis, Ph.D.'
-date: 2019-01-01
+title: 'Emmanouil "Manolis" Maragkakis, PhD'
 role: "Principal Investigator"
-email: "maragkakise2@nih.gov"
-website: "http://www.emaragkakis.com"
+email: "maragkakise@nih.gov"
 google_scholar: "https://scholar.google.com/citations?user=vZPpdNMAAAAJ&hl=en"
+twitter: "https://x.com/em_maragkakis"
+bluesky: "https://bsky.app/profile/manolis-maragkakis.bsky.social"
 summary: "Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab, Laboratory of Genetics and Genomics, NIA/NIH."
-weight: 1
 image: "/images/people/manolis-maragkakis.jpeg"
+weight: 1
 ---
 
 ## Bio
 
-Manolis is a Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab
-in the [Laboratory of Genetics and Genomics](https://www.nia.nih.gov/research/labs/lgg)
-at the National Institute on Aging (NIA), NIH. He joined NIA in 2019.
+Manolis is a Stadtman Principal Investigator in the Laboratory of Genetics and 
+Genomics at the National Institute on Aging (NIA), NIH.
 
 His research investigates the high-dimensional regulation of gene expression as a key component
 of discovering the mechanistic basis of human disease and aging. His work merges experimental
@@ -23,8 +22,8 @@ sequencing and machine learning to map regulatory networks across aging processe
 
 ## Education & Training
 
-- **Postdoctoral Fellow** — University of Pennsylvania (Dr. Zissimos Mourelatos lab);
+- **Postdoctoral Fellow** — University of Pennsylvania (Mourelatos lab);
   post-transcriptional gene regulation and RNA-binding proteins
-- **Ph.D.** — Joint program, Biomedical Science Research Center "Alexander Fleming" &
-  Martin Luther University of Halle-Wittenberg; microRNA target prediction algorithms
+- **Ph.D. Bioinformatics** — Joint program, Biomedical Science Research Center 
+- "Alexander Fleming" & Martin Luther University; microRNA target prediction algorithms
 - **B.S. in Physics** — University of Athens; computational simulation of neuronal activity

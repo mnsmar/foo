@@ -1,21 +1,13 @@
 ---
-title: "Full-length direct RNA sequencing uncovers stress-granule dependent RNA decay upon cellular stress"
+title: "Full-length direct RNA sequencing uncovers stress granule-dependent RNA decay upon cellular stress"
 date: 2024-12-19
-authors: ["Dar SA", "et al.", "Maragkakis M"]
-venue: "eLife, 13"
-pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10491209/"
-code: ""
-tags: ["stress granules", "RNA decay", "direct RNA sequencing", "nanopore", "cellular stress"]
-summary: "Full-length direct RNA sequencing reveals that stress granules are hubs for selective mRNA decay during cellular stress, linking stress granule biology to RNA homeostasis."
+authors: ["Dar SA", "Malla S", "Martinek V", "Payea MJ", "Lee CT-Y", "Martin J", "Khandeshi AJ", "Martindale JL", "Belair C", "Maragkakis M"]
+venue: "eLife, 13:e96284"
+link: "https://pubmed.ncbi.nlm.nih.gov/39699162/"
+tags: ["stress granules", "RNA decay", "direct RNA sequencing", "nanopore", "cellular stress", "RNA metabolism"]
 ---
 
-## Abstract
+## Summary
 
-Stress granules are biomolecular condensates that form during cellular stress and have been
-linked to neurodegenerative disease. Using full-length direct RNA sequencing, this study
-uncovers how stress granule formation drives selective mRNA decay, revealing a new layer
-of post-transcriptional regulation that shapes the cellular stress response.
+Using full-length direct RNA sequencing, this study uncovers a previously unrecognized role for stress granules in promoting selective mRNA decay during cellular stress. The findings show that mRNAs recruited to stress granules undergo preferential degradation, linking stress granule biology to RNA homeostasis.
 
-## Links
-
-- [Paper (eLife)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10491209/)

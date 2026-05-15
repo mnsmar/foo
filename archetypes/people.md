@@ -1,11 +1,12 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
 draft: true
 role: "PhD Student"
 email: ""
 website: ""
 google_scholar: ""
+twitter: ""
+bluesky: ""
 image: ""
 summary: ""
 weight: 100

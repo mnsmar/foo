@@ -1,11 +1,15 @@
 ---
-title: "Srila Palanikumar"
+title: "Toyoshi Egbebi"
+draft: true
 role: "Postbaccalaureate trainee"
 email: ""
 website: ""
 google_scholar: ""
+twitter: ""
+bluesky: ""
+image: ""
 summary: ""
-weight: 20
+weight: 100
 alumni: false
 ---
 

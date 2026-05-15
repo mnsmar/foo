@@ -1,21 +1,13 @@
 ---
 title: "Senescence suppresses the integrated stress response and activates a stress-remodeled secretory phenotype"
 date: 2024-11-21
-authors: ["Payea MJ", "et al.", "Maragkakis M"]
-venue: "Molecular Cell, 84(22):4454–4469"
-pdf: "https://pubmed.ncbi.nlm.nih.gov/?term=Payea+senescence+integrated+stress+response+2024"
-code: ""
-tags: ["senescence", "integrated stress response", "aging", "secretory phenotype"]
-summary: "Cellular senescence rewires the integrated stress response, switching cells to a remodeled secretory state that contributes to aging-associated pathologies."
+authors: ["Payea MJ", "Dar SA", "Anerillas C", "Martindale JL", "Belair C", "Munk R", "Malla S", "Fan J", "Piao Y", "Yang X", "Rehman A", "Banskota N", "Abdelmohsen K", "Gorospe M", "Maragkakis M"]
+venue: "Molecular Cell, 84(22):4454-4469"
+link: "https://pubmed.ncbi.nlm.nih.gov/39481386/"
+tags: ["senescence", "integrated stress response", "secretory phenotype", "aging", "cellular stress"]
 ---
 
-## Abstract
+## Summary
 
-Cellular senescence is a state of stable cell-cycle arrest associated with aging and
-age-related disease. This study demonstrates that senescence suppresses the integrated
-stress response (ISR) and instead activates a distinct stress-remodeled secretory
-phenotype, revealing a new mechanism by which senescent cells contribute to tissue aging.
+This study reveals that senescent cells suppress the canonical integrated stress response (ISR) while activating a remodeled secretory program. The suppression of ISR in senescence is mechanistically linked to altered eIF2α phosphorylation dynamics, and the resulting secretory phenotype differs from the classical SASP, with implications for age-related tissue dysfunction.
 
-## Links
-
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Payea+senescence+integrated+stress+response+2024)

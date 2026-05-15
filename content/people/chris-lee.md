@@ -1,11 +1,14 @@
 ---
-title: "Srila Palanikumar"
-role: "Postbaccalaureate trainee"
+title: "Chris T Lee, PhD"
+role: "Bioinformatics Scientist"
 email: ""
 website: ""
 google_scholar: ""
+twitter: ""
+bluesky: ""
+image: ""
 summary: ""
-weight: 20
+weight: 32
 alumni: false
 ---
 

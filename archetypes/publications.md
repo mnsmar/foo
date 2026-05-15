@@ -3,18 +3,11 @@ title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 authors: ["Author One", "Author Two"]
-venue: "Conference Name (CONF YEAR)"
-pdf: ""
-code: ""
+venue: "Journal"
+link: ""
 tags: []
-summary: ""
 ---
 
-## Abstract
+## Summary
 
-Write your abstract here.
-
-## Links
-
-- [PDF]()
-- [Code]()
+Write your summary here.
