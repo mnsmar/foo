@@ -27,8 +27,7 @@ buildExpired = false
 
   homeInfoParams.Title = 'Maragkakis Lab'
   homeInfoParams.Content = '''
-The lab investigates the high-dimensional regulation of gene expression to uncover
-the mechanistic basis of **aging physiology and disease**.
+The lab investigates the high-dimensional regulation of gene expression to uncover the mechanistic basis of **aging physiology and disease**.
 Its work integrates experimental and computational approaches to study dynamic
 changes in **RNA metabolism** and develop interventions to counteract
 aging-associated decline, cellular senescence, and chronic age-associated
@@ -39,6 +38,8 @@ The lab develops experimental and computational technologies based on
 native state of RNA in cells, and builds **machine learning tools** to model
 fundamental biological mechanisms and design combinatorial interventions to
 increase human healthspan.
+
+**This website is NOT an official website of the U.S. Government, HHS, NIH, or NIA. The views and content presented here do not necessarily represent the official views or policies of the U.S. Government, HHS, NIH, or NIA.**
 '''
 
   [[params.socialIcons]]
