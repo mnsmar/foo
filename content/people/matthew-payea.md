@@ -7,7 +7,7 @@ weight: 30
 
 ## Research
 
-Matth studies the interplay between cellular senescence and the integrated stress response,
-and how these processes are remodeled in aging cells. His work contributed to characterizing
-how senescence suppresses the integrated stress response and activates a stress-remodeled
-secretory phenotype.
+Matt studies the interplay between cellular senescence and the integrated
+stress response, and how these processes are remodeled in aging cells. His work
+contributed to characterizing how senescence suppresses the integrated stress
+response and activates a stress-remodeled secretory phenotype.

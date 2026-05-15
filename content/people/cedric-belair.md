@@ -8,6 +8,6 @@ weight: 31
 
 ## Research
 
-Cedric works on RNA metabolism, contributing to projects on direct RNA sequencing and
-transcriptome dynamics, including the development of the RNAkinet deep learning framework
-for labeled RNA sequencing.
+Cedric works on RNA metabolism, contributing to projects on direct RNA
+sequencing and transcriptome dynamics, including the development of the RNAkinet
+deep learning framework for labeled RNA sequencing.
