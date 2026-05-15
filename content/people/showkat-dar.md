@@ -1,10 +1,10 @@
 ---
-title: "Shoeb A. Dar"
-date: 2020-01-01
+title: "Showkat A. Dar"
 role: "Postdoctoral Fellow"
 email: ""
-summary: "Postdoctoral Fellow studying RNA decay and stress granule biology using direct RNA sequencing."
+summary: "Studies RNA decay and stress granule biology using direct RNA sequencing."
 weight: 11
+alumni: true
 ---
 
 ## Research

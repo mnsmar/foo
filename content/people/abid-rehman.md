@@ -1,12 +1,11 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title: "Abid Rehman"
+date: 2026-05-14T21:43:43-04:00
 role: "PhD Student"
 email: ""
 website: ""
 google_scholar: ""
-summary: ""
+summary: "fooo"
 weight: 100
 alumni: false
 ---

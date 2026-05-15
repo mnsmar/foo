@@ -1,10 +1,10 @@
 ---
 title: "Sulochan Malla"
-date: 2021-01-01
-role: "Research Fellow"
+role: "Postdoctoral Fellow"
 email: ""
-summary: "Research Fellow working on long-read sequencing and RNA biology."
+summary: "Working on long-read sequencing and RNA biology."
 weight: 13
+alumni: true
 ---
 
 ## Research

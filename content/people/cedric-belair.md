@@ -1,9 +1,8 @@
 ---
 title: "Cedric Belair"
-date: 2020-01-01
-role: "Research Fellow"
+role: "RNA biology scientist"
 email: ""
-summary: "Research Fellow working on RNA metabolism and transcriptome dynamics."
+summary: "Working on RNA metabolism and transcriptome dynamics using long-read RNA sequencing."
 weight: 12
 ---
 

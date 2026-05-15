@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title: "Srila Palanikumar"
+date: 2026-05-14T21:42:18-04:00
+draft: false
 role: "PhD Student"
 email: ""
 website: ""

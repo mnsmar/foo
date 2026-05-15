@@ -5,6 +5,7 @@ role: "Research Fellow"
 email: ""
 summary: "Research Fellow focused on machine learning approaches for RNA sequencing analysis."
 weight: 14
+alumni: true
 ---
 
 ## Research

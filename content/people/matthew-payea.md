@@ -1,9 +1,9 @@
 ---
 title: "Matthew J. Payea"
 date: 2020-01-01
-role: "Postdoctoral Fellow"
+role: "RNA biology and bioinformatics scientist"
 email: ""
-summary: "Postdoctoral Fellow studying cellular stress responses and senescence."
+summary: "Studies cellular stress responses and senescence."
 weight: 10
 ---
 
