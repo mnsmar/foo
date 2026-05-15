@@ -5,10 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>People | Computational Genomics Unit</title>
+<title>People | Maragkakis Lab</title>
 <meta name="keywords" content="">
 <meta name="description" content="Lab members">
-<meta name="author" content="Computational Genomics Unit, NIA/NIH">
+<meta name="author" content="Maragkakis Lab, NIA/NIH">
 <link rel="canonical" href="http://localhost:1313/people/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.cd9298b33628769aa1bc1acebbbfd7aa11ce81dfe03484d479e1907760249a1d.css" integrity="sha256-zZKYszYodpqhvBrOu7/XqhHOgd/gNITUeeGQd2Akmh0=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
@@ -65,8 +65,53 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><meta property="og:url" content="http://localhost:1313/people/">
-  <meta property="og:site_name" content="Computational Genomics Unit">
+</script><style>
+ 
+.people-card {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+.people-card .people-photo {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.people-card .people-photo-placeholder {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--border, #e0e0e0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: var(--secondary, #aaa);
+}
+
+ 
+.people-single-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+.people-single-photo {
+  flex-shrink: 0;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.people-single-info h1 {
+  margin-top: 0;
+}
+</style>
+<meta property="og:url" content="http://localhost:1313/people/">
+  <meta property="og:site_name" content="Maragkakis Lab">
   <meta property="og:title" content="People">
   <meta property="og:description" content="Lab members">
   <meta property="og:locale" content="en_us">
@@ -96,7 +141,7 @@
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Computational Genomics Unit (Alt + H)">Computational Genomics Unit</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Maragkakis Lab (Alt + H)">Maragkakis Lab</a>
             <div class="logo-switches">
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
@@ -150,96 +195,130 @@
     </nav>
 </header>
 <main class="main">
-<header class="page-header"><nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
-            <a href="/">Home</a>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
-        <polyline points="9 18 15 12 9 6"></polyline>
-    </svg>
-</nav>
+<header class="page-header">
   <h1>People</h1>
   <div class="post-description">Lab members</div>
 </header>
 
 <h2>Current Members</h2>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Emmanouil &#34;Manolis&#34; Maragkakis, Ph.D.</h2><p class="post-description">Principal Investigator</p>
-  </header>
-  <div class="entry-content">
-    <p>Stadtman Tenure-Track Investigator and Chief of the Computational Genomics Unit, Laboratory of Genetics and Genomics, NIA/NIH.</p>
+  <div class="people-card">
+    <img class="people-photo" src="http://localhost:1313/images/people/manolis-maragkakis.jpeg" alt="Emmanouil &#34;Manolis&#34; Maragkakis, Ph.D.">
+    <div>
+      <header class="entry-header">
+        <h2>Emmanouil &#34;Manolis&#34; Maragkakis, Ph.D.</h2><p class="post-description">Principal Investigator</p>
+      </header>
+      <div class="entry-content">
+        <p>Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab, Laboratory of Genetics and Genomics, NIA/NIH.</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Emmanouil &#34;Manolis&#34; Maragkakis, Ph.D." href="http://localhost:1313/people/pi/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Matthew J. Payea</h2><p class="post-description">RNA biology and bioinformatics scientist</p>
-  </header>
-  <div class="entry-content">
-    <p>Studies cellular stress responses and senescence.</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Matthew J. Payea</h2><p class="post-description">RNA biology and bioinformatics scientist</p>
+      </header>
+      <div class="entry-content">
+        <p>Studies cellular stress responses and senescence.</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Matthew J. Payea" href="http://localhost:1313/people/matthew-payea/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Cedric Belair</h2><p class="post-description">RNA biology scientist</p>
-  </header>
-  <div class="entry-content">
-    <p>Working on RNA metabolism and transcriptome dynamics using long-read RNA sequencing.</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Cedric Belair</h2><p class="post-description">RNA biology scientist</p>
+      </header>
+      <div class="entry-content">
+        <p>Working on RNA metabolism and transcriptome dynamics using long-read RNA sequencing.</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Cedric Belair" href="http://localhost:1313/people/cedric-belair/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Abid Rehman</h2><p class="post-description">PhD Student</p>
-  </header>
-  <div class="entry-content">
-    <p>fooo</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Abid Rehman</h2><p class="post-description">PhD Student</p>
+      </header>
+      <div class="entry-content">
+        <p>fooo</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Abid Rehman" href="http://localhost:1313/people/abid-rehman/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Srila Palanikumar</h2><p class="post-description">PhD Student</p>
-  </header>
-  <div class="entry-content">
-    <p>Bio Write a short bio here.
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Srila Palanikumar</h2><p class="post-description">PhD Student</p>
+      </header>
+      <div class="entry-content">
+        <p>Bio Write a short bio here.
 Education Degree, University, Year </p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Srila Palanikumar" href="http://localhost:1313/people/srila-palanikumar/"></a>
 </article>
 <h2>Past Members</h2>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Showkat A. Dar</h2><p class="post-description">Postdoctoral Fellow</p>
-  </header>
-  <div class="entry-content">
-    <p>Studies RNA decay and stress granule biology using direct RNA sequencing.</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Showkat A. Dar</h2><p class="post-description">Postdoctoral Fellow</p>
+      </header>
+      <div class="entry-content">
+        <p>Studies RNA decay and stress granule biology using direct RNA sequencing.</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Showkat A. Dar" href="http://localhost:1313/people/showkat-dar/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Sulochan Malla</h2><p class="post-description">Postdoctoral Fellow</p>
-  </header>
-  <div class="entry-content">
-    <p>Working on long-read sequencing and RNA biology.</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Sulochan Malla</h2><p class="post-description">Postdoctoral Fellow</p>
+      </header>
+      <div class="entry-content">
+        <p>Working on long-read sequencing and RNA biology.</p>
+      </div>
+    </div>
   </div>
   <a class="entry-link" aria-label="post link to Sulochan Malla" href="http://localhost:1313/people/sulochan-malla/"></a>
 </article>
 <article class="post-entry">
-  <header class="entry-header">
-    <h2>Vlastimil Martinek</h2><p class="post-description">Research Fellow</p>
-  </header>
-  <div class="entry-content">
-    <p>Research Fellow focused on machine learning approaches for RNA sequencing analysis.</p>
+  <div class="people-card">
+    <div class="people-photo-placeholder">👤</div>
+    <div>
+      <header class="entry-header">
+        <h2>Jessica Martin</h2><p class="post-description">Postbaccalaureate Fellow</p>
+      </header>
+      <div class="entry-content">
+        <p>Machine learning approaches for RNA sequencing analysis.</p>
+      </div>
+    </div>
   </div>
-  <a class="entry-link" aria-label="post link to Vlastimil Martinek" href="http://localhost:1313/people/vlastimil-martinek/"></a>
+  <a class="entry-link" aria-label="post link to Jessica Martin" href="http://localhost:1313/people/jessica-martin/"></a>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/">Computational Genomics Unit</a></span> · 
+        <span>&copy; 2026 <a href="http://localhost:1313/">Maragkakis Lab</a></span> · 
 
     
     

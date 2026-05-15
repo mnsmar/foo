@@ -6,6 +6,7 @@ role: "PhD Student"
 email: ""
 website: ""
 google_scholar: ""
+image: ""
 summary: ""
 weight: 100
 alumni: false

@@ -2,10 +2,10 @@
 title: "Join Us"
 layout: "page"
 url: "/join/"
-summary: "Open positions in the Computational Genomics Unit at NIA/NIH."
+summary: "Open positions in the Maragkakis Lab at NIA/NIH."
 ---
 
-The Computational Genomics Unit is looking for motivated researchers to join our team
+The Maragkakis Lab is looking for motivated researchers to join our team
 at the **National Institute on Aging (NIA), NIH** in Baltimore, MD.
 
 We are an interdisciplinary group combining experimental and computational biology.

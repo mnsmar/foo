@@ -5,13 +5,14 @@ role: "Principal Investigator"
 email: "maragkakise2@nih.gov"
 website: "http://www.emaragkakis.com"
 google_scholar: "https://scholar.google.com/citations?user=vZPpdNMAAAAJ&hl=en"
-summary: "Stadtman Tenure-Track Investigator and Chief of the Computational Genomics Unit, Laboratory of Genetics and Genomics, NIA/NIH."
+summary: "Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab, Laboratory of Genetics and Genomics, NIA/NIH."
 weight: 1
+image: "/images/people/manolis-maragkakis.jpeg"
 ---
 
 ## Bio
 
-Manolis is a Stadtman Tenure-Track Investigator and Chief of the Computational Genomics Unit
+Manolis is a Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab
 in the [Laboratory of Genetics and Genomics](https://www.nia.nih.gov/research/labs/lgg)
 at the National Institute on Aging (NIA), NIH. He joined NIA in 2019.
 

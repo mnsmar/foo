@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>People on Computational Genomics Unit</title>
+    <title>People on Maragkakis Lab</title>
     <link>http://localhost:1313/people/</link>
-    <description>Recent content in People on Computational Genomics Unit</description>
+    <description>Recent content in People on Maragkakis Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2026 21:43:43 -0400</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/people/pi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/people/pi/</guid>
-      <description>Stadtman Tenure-Track Investigator and Chief of the Computational Genomics Unit, Laboratory of Genetics and Genomics, NIA/NIH.</description>
+      <description>Stadtman Tenure-Track Investigator and Chief of the Maragkakis Lab, Laboratory of Genetics and Genomics, NIA/NIH.</description>
     </item>
     <item>
       <title>Matthew J. Payea</title>
@@ -44,11 +44,11 @@
       <description>Working on long-read sequencing and RNA biology.</description>
     </item>
     <item>
-      <title>Vlastimil Martinek</title>
-      <link>http://localhost:1313/people/vlastimil-martinek/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/vlastimil-martinek/</guid>
-      <description>Research Fellow focused on machine learning approaches for RNA sequencing analysis.</description>
+      <title>Jessica Martin</title>
+      <link>http://localhost:1313/people/jessica-martin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/jessica-martin/</guid>
+      <description>Machine learning approaches for RNA sequencing analysis.</description>
     </item>
     <item>
       <title>Abid Rehman</title>

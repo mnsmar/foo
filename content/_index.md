@@ -1,3 +1,3 @@
 ---
-title: "Computational Genomics Unit"
+title: "Maragkakis Lab"
 ---

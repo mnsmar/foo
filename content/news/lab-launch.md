@@ -1,11 +1,11 @@
 ---
-title: "Computational Genomics Unit Joins NIA"
+title: "Maragkakis Lab Joins NIA"
 date: 2019-09-01
-summary: "The Computational Genomics Unit, led by Dr. Emmanouil Maragkakis, officially joins the Laboratory of Genetics and Genomics at the National Institute on Aging."
+summary: "The Maragkakis Lab, led by Dr. Emmanouil Maragkakis, officially joins the Laboratory of Genetics and Genomics at the National Institute on Aging."
 tags: ["announcement"]
 ---
 
-The Computational Genomics Unit officially launched within the
+The Maragkakis Lab officially launched within the
 [Laboratory of Genetics and Genomics](https://www.nia.nih.gov/research/labs/lgg)
 at the National Institute on Aging (NIA), NIH.
 
