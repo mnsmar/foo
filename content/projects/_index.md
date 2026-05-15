@@ -1,4 +1,4 @@
 ---
 title: "Research"
-description: "Our research projects"
+description: "Our research aims"
 ---

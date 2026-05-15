@@ -22,8 +22,6 @@
 {{- $current := where $allPages "Params.alumni" "ne" true }}
 {{- $alumni  := where $allPages "Params.alumni" true }}
 
-<h2>Current Members</h2>
-
 {{- range $current }}
 <article class="post-entry">
   <div class="people-card">
