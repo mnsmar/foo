@@ -22,7 +22,7 @@ buildExpired = false
   disableSpecial1stPost = true
   disableScrollToTop = false
   comments = false
-  hidemeta = false
+  hidemeta = true
   mainSections = []
 
   homeInfoParams.Title = 'Maragkakis Lab'
@@ -74,7 +74,7 @@ increase human healthspan.
 
   [[menu.main]]
     identifier = 'join'
-    name = 'Join Us'
+    name = 'Join'
     url = '/join/'
     weight = 50
 
