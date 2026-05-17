@@ -10,15 +10,3 @@ status: "active"
 ## Overview
 
 Describe the project motivation and goals.
-
-## Approach
-
-Explain the technical approach.
-
-## Results
-
-Key results, papers, or demos.
-
-## Funding
-
-Funding information.

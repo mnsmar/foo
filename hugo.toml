@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://www.maragkakislab.com/'
 locale = 'en-us'
 title = 'Maragkakis Lab'
 theme = 'PaperMod'
@@ -11,7 +11,6 @@ buildExpired = false
   env = 'production'
   title = 'Maragkakis Lab'
   description = 'The Maragkakis Lab studies the high-dimensional regulation of gene expression to uncover the mechanistic basis of aging physiology and disease.'
-  author = 'Maragkakis Lab, NIA/NIH'
 
   ShowReadingTime = false
   ShowShareButtons = false
@@ -52,7 +51,7 @@ increase human healthspan.
 
   [[params.socialIcons]]
     name = 'email'
-    url = 'mailto:maragkakise@nih.gov'
+    url = 'mailto:maragkakis@nih.gov'
 
 [menu]
   [[menu.main]]
@@ -72,12 +71,6 @@ increase human healthspan.
     name = 'People'
     url = '/people/'
     weight = 30
-
-  [[menu.main]]
-    identifier = 'join'
-    name = 'Join'
-    url = '/join/'
-    weight = 50
 
 [pagination]
   pagerSize = 20

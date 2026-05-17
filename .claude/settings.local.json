@@ -3,7 +3,11 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:scholar.google.com)",
-      "Bash(conda run *)"
+      "Bash(conda run *)",
+      "Bash(rm /Users/maragkakise2/Downloads/quickstart/content/projects/rna-metabolism-aging.md /Users/maragkakise2/Downloads/quickstart/content/projects/long-read-sequencing-technologies.md /Users/maragkakise2/Downloads/quickstart/content/projects/epigenomics-aging.md)"
+    ],
+    "additionalDirectories": [
+      "/Users/maragkakise2/Downloads/quickstart/content/projects"
     ]
   }
 }
